@@ -1,11 +1,14 @@
 # flutter_shorts_internship_submission
 
 YouTube Shorts Clone Flutter
+
 Internship Submission for Gro.care
 
 ## Steps to run
 Clone this GitHub Repo in your Android Studio / VsCode
+
 Ensure internet is on in your emulator / physical testing device
+
 Run the app
 
 ## Getting Started
